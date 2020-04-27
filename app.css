@@ -1,0 +1,35 @@
+h1
+{
+	color: rgb(68, 0, 100);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+	border: 5px solid purple;
+}
+h4{
+	background: rgb(255,100,80);
+}
+body
+{
+	background: url(https://thumbs.dreamstime.com/b/trail-running-woman-athlete-runner-exercising-mountains-landscape-background-sunset-pink-color-sky-clouds-healthy-157529911.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+
+/*h1
+{
+	color : orange;
+}
+h4
+{
+	color: red;
+}
+li
+{
+	color: purple;
+}*/
+
